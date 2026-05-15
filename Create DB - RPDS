@@ -1,0 +1,1 @@
+Create database RPDS (ID INT PRIMARY KEY IDENTITY, Name NVARCHAR(100),age INT, country origin NVARCHAR(100),current nationality NVARCHAR(100),date entry, legal status NVARCHAR(50)
